@@ -1,5 +1,5 @@
 <?php
 
-$host = mysqli_connect("localhost", "root", "", "dataset");
+$host = mysqli_connect("localhost", "root", "", "heartfailure");
 
 ?>
